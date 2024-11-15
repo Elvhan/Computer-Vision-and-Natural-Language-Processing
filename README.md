@@ -1,5 +1,5 @@
 # Computer Vision & Natural Language Processing
-This is the third team project at Startup Campus
+This repository contains the third team project at Startup Campus
 
 ## Case 1: Computer Vision - Digital Image Processing 
 
